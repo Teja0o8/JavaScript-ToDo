@@ -1,2 +1,2 @@
-# JavaScript-ToDo
+# javascript-todo
 JavaScript-ToDo
