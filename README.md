@@ -1,2 +1,2 @@
 # javascript-todo
-JavaScript-ToDo
+javascript-todo
